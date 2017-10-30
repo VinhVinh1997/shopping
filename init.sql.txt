@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 sadfshff\
 
 create table Car
+=======
+sadfshff
+
+create table User
+>>>>>>> initDB
